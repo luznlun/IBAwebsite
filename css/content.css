@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.table td{
+	font-size:18px;
+}
+.news{
+	width:50%;
+	float:left;
+	border-style:groove;
+	border-color:#354EDF;
+}
+div#padding{
+	padding-top:30px;
+	padding-left:140px;
+	padding-right:140px;
+	padding-bottom:15px;
+}
+ 
+#newNav{
+	background-color:#333;
+	height:40px;
+}
