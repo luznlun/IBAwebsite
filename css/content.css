@@ -4,11 +4,13 @@
 .table td{
 	font-size:18px;
 }
-.news{
+#news{
 	width:50%;
-	float:left;
 	border-style:groove;
 	border-color:#354EDF;
+}
+#info{
+	width:50%;
 }
 div#padding{
 	padding-top:30px;
@@ -20,4 +22,8 @@ div#padding{
 #newNav{
 	background-color:#333;
 	height:40px;
+}
+#membership h2{
+	
+	color:#3A4378
 }

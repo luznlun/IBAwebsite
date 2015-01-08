@@ -2,9 +2,6 @@
 /* CSS Document */
 
 #footer{
-	padding-left: 140px;
 	font-size: 10;
 	width:100%;
-	position:absolute;
-	bottom:0;
 }
