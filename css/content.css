@@ -27,3 +27,11 @@ div#padding{
 	
 	color:#3A4378
 }
+
+#imageborder{
+	border:solid;
+	border-width:5px;
+	border-color:#FFFFFF;
+	
+	
+}

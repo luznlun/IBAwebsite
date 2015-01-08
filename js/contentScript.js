@@ -22,7 +22,7 @@ document.getElementById('nav01').innerHTML =
            " </li>"+
            " <li> <a href='aboutus.html'>About Us</a>"+
             "	<ul>"+
-"                    <li><a href='#'>Mission Statement</a>"+
+"                    <li><a href='missionstatement.html'>Mission Statement</a>"+
 "                    </li>"+
 "                    <li><a href='#'>Executive Leadership Board Fall 2014</a>"+
 "                    </li>"+
