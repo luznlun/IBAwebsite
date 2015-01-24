@@ -32,6 +32,17 @@ div#padding{
 	border:solid;
 	border-width:5px;
 	border-color:#FFFFFF;
-	
-	
+}
+
+.tableimg{
+	width:400px;
+	height:250px;
+}
+
+.gallery{
+	width:300px;
+	height:auto;
+	border:solid;
+	border-width:5px;
+	border-color:#FFFFFF;
 }
